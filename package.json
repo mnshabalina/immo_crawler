@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.25.0",
-    "react": "^17.0.2"
-  }
-}

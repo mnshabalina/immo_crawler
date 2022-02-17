@@ -1,6 +1,6 @@
-## Immobilien Überwacher App
+## Real estate watcher App
 
-Crawls wg-gesucht.de for immobilien adds and represents found data in a table.
+Crawls wg-gesucht.de for apartment adds and represents found data in a table.
 
 ### To start backend
 

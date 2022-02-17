@@ -18,7 +18,7 @@ def crawl():
     submit_button_xpath = '//*[@id="search_button"]'
     apt_add_xpath = '//div[@class="wgg_card.offer_list_item"]'
     apt_add_selector = '.wgg_card.offer_list_item'
-    link_xpath = '//*[@id="liste-details-ad-8834598"]/div/div[1]/a'
+    link_xpath = '//*[contains(@id,"liste-details-ad-")]/div/div[1]/a'
 
     # Start the browser
     options = Options()
